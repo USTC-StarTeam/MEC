@@ -1,0 +1,15 @@
+### Full data for training
+criteo_x1_default:
+    data_root: ../data/criteo
+    data_format: parquet
+    train_data: ../data/criteo/criteo_x1_default/train.parquet
+    valid_data: ../data/criteo/criteo_x1_default/valid.parquet
+    test_data: ../data/criteo/criteo_x1_default/test.parquet
+    
+### Full data for training
+avazu_x1_default:
+    data_root: ../data/avazu
+    data_format: parquet
+    train_data: ../data/avazu/avazu_x1_default/train.parquet
+    valid_data: ../data/avazu/avazu_x1_default/valid.parquet
+    test_data: ../data/avazu/avazu_x1_default/test.parquet
