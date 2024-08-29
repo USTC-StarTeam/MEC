@@ -2,6 +2,8 @@
 
 This is the source code for the paper "MEC: A Model-Agnostic Embedding Compression Framework For CTR Prediction."
 
+![Main Framework](./main_figure.png)
+
 ## Data Preprocessing
 
 Currently using [Criteo_x1](https://github.com/reczoo/Datasets/tree/main/Criteo/Criteo_x1) and [Avazu_x1](https://github.com/reczoo/Datasets/tree/main/Avazu/Avazu_x1) from fuxictr. Please download the target files into the data folder. For the Criteo dataset, the default input path is `/data/criteo` with the following structure:
