@@ -1,4 +1,4 @@
-# Readme
+# MEC
 
 This is the source code for the paper "MEC: A Model-Agnostic Embedding Compression Framework For CTR Prediction."
 
